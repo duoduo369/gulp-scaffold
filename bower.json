@@ -1,0 +1,21 @@
+{
+  "name": "gulp-scaffold",
+  "version": "(0.1.0)",
+  "homepage": "https://github.com/duoduo369/gulp-scaffold",
+  "authors": [
+    "duoduo369 <duoduo3369@gmail.com>"
+  ],
+  "description": "gulp-scaffold",
+  "keywords": [
+    "scaffold"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
